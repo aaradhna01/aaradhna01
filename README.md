@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Aradhana Singh 👩‍💻
 
-<!--
-**aaradhna01/aaradhna01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA Graduate | Full-Stack Developer | 🚀 Passionate about Frontend & Backend Projects
 
-Here are some ideas to get you started:
+I work on **frontend & backend projects** using **C++, Javascript, Node.js, React,** and **databases**.  
+I love **building real-world projects** and **collaborating with developers**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ **Tech Stack**
+- **Backend:** Node.js, Express.js, Python(Basic), C++
+- **Frontend:** React.js, JavaScript, HTML, CSS
+- **Databases:** PostgreSQL
+- **Others:** Git, GitHub, REST APIs, Langchain, Langgraph
+
+---
+
+📫 **Let's Connect**
+- LinkedIn: [https://www.linkedin.com/in/aradhana-singh-6597b5365/] 
+- GitHub: [https://github.com/aaradhna01]  
+- Email: aaradhnas32@gmail.com
