@@ -11,11 +11,12 @@ I love **building real-world projects** and **collaborating with developers**.
 - **Backend:** Node.js, Express.js, Python(Basic), C++
 - **Frontend:** React.js, JavaScript, HTML, CSS
 - **Databases:** PostgreSQL
-- **Others:** Git, GitHub, REST APIs, Langchain, Langgraph
+- **Others:** Git, GitHub, REST APIs, Postman, LangChain, LangGraph
 
 ---
 
 📫 **Let's Connect**
-- LinkedIn: [https://www.linkedin.com/in/aradhana-singh-6597b5365/] 
-- GitHub: [https://github.com/aaradhna01]  
+- LinkedIn: (https://www.linkedin.com/in/aradhana-singh-6597b5365/])
+- GitHub: (https://github.com/aaradhna01)
+- LeetCode: (https://leetcode.com/u/aaradhna01/)  
 - Email: aaradhnas32@gmail.com
